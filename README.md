@@ -1,3 +1,3 @@
 # JollyPhysicsEngine
 
-Small implementation of physics engine exhibiting gravitorial behaviour
+Small implementation of physics engine exhibiting gravitational behaviour
