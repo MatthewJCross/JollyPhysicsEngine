@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\JollyPhysicsEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E42F4F-33C4-47DC-B150-6259E7D97E11}|JollyPhysicsEngine\\JollyPhysicsEngine.csproj|d:\\projects\\jollyphysicsengine\\jollyphysicsengine\\physicsworld\\physicsengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E42F4F-33C4-47DC-B150-6259E7D97E11}|JollyPhysicsEngine\\JollyPhysicsEngine.csproj|solutionrelative:jollyphysicsengine\\physicsworld\\physicsengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E42F4F-33C4-47DC-B150-6259E7D97E11}|JollyPhysicsEngine\\JollyPhysicsEngine.csproj|d:\\projects\\jollyphysicsengine\\jollyphysicsengine\\physicsworld\\physicsobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E42F4F-33C4-47DC-B150-6259E7D97E11}|JollyPhysicsEngine\\JollyPhysicsEngine.csproj|solutionrelative:jollyphysicsengine\\physicsworld\\physicsobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E42F4F-33C4-47DC-B150-6259E7D97E11}|JollyPhysicsEngine\\JollyPhysicsEngine.csproj|d:\\projects\\jollyphysicsengine\\jollyphysicsengine\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B6E42F4F-33C4-47DC-B150-6259E7D97E11}|JollyPhysicsEngine\\JollyPhysicsEngine.csproj|solutionrelative:jollyphysicsengine\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 283,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhysicsEngine.cs",
+              "DocumentMoniker": "D:\\Projects\\JollyPhysicsEngine\\JollyPhysicsEngine\\PhysicsWorld\\PhysicsEngine.cs",
+              "RelativeDocumentMoniker": "JollyPhysicsEngine\\PhysicsWorld\\PhysicsEngine.cs",
+              "ToolTip": "D:\\Projects\\JollyPhysicsEngine\\JollyPhysicsEngine\\PhysicsWorld\\PhysicsEngine.cs",
+              "RelativeToolTip": "JollyPhysicsEngine\\PhysicsWorld\\PhysicsEngine.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAowJ0AAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:29:06.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhysicsObject.cs",
+              "DocumentMoniker": "D:\\Projects\\JollyPhysicsEngine\\JollyPhysicsEngine\\PhysicsWorld\\PhysicsObject.cs",
+              "RelativeDocumentMoniker": "JollyPhysicsEngine\\PhysicsWorld\\PhysicsObject.cs",
+              "ToolTip": "D:\\Projects\\JollyPhysicsEngine\\JollyPhysicsEngine\\PhysicsWorld\\PhysicsObject.cs",
+              "RelativeToolTip": "JollyPhysicsEngine\\PhysicsWorld\\PhysicsObject.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAowEEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T18:30:46.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Projects\\JollyPhysicsEngine\\JollyPhysicsEngine\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "JollyPhysicsEngine\\MainWindow.xaml",
+              "ToolTip": "D:\\Projects\\JollyPhysicsEngine\\JollyPhysicsEngine\\MainWindow.xaml",
+              "RelativeToolTip": "JollyPhysicsEngine\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-15T17:39:47.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

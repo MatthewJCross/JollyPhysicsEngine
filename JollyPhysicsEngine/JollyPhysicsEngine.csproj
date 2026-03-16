@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>PhyEng.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="PhyEng.ico" />
+    <None Remove="Resources\PhyEng.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="PhyEng.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Resources\PhyEng.ico" />
+  </ItemGroup>
+
+</Project>
